@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "DeepSeek Harness",
-  "short_name": "DSH",
+  "name": "ITCMT Harness Agent",
+  "short_name": "IHS",
   "start_url": "/",
   "scope": "/",
   "display": "fullscreen",
